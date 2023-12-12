@@ -11,3 +11,5 @@
 <h2>- Generally perform specific operation. </h2>
 <h2>-Combine multiple libs to build apps </h2>
 <h2>-Example: ReactJS </h2>
+
+<h1>Features of Angular</h1>
