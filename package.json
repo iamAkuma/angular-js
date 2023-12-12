@@ -1,0 +1,22 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "<h1> ANGULAR JS PRACTICE </h1>\r <!-- <h1> STARTING SOON </h1> -->\r <h2> UI frameworkbuilt by Google</h2>\r <h2> Component-based framework for building scalable app </h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamAkuma/angular-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamAkuma/angular-js/issues"
+  },
+  "homepage": "https://github.com/iamAkuma/angular-js#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
