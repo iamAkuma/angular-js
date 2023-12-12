@@ -1,5 +1,5 @@
 <h1> ANGULAR JS PRACTICE </h1>
-<h1> STARTING SOON </h1>
+<!-- <h1> STARTING SOON </h1> -->
 <h2> UI frameworkbuilt by Google</h2>
 <h2> Component-based framework for building scalable app </h2>
 
