@@ -16,4 +16,7 @@
 <h2>-</h2>
 
 
-<!-- <h1> What is SPA? </h1> -->
+<h1> What is SPA? </h1>
+<h2>-Single Page Applications </h2>
+<h2> </h2>
+<h2> </h2>
